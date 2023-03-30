@@ -8,3 +8,5 @@ Be sure to check out my Twitch channel, where I do Minecraft streams: https://tw
 [![Redcreeper14385's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounderfod)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounderfod&layout=compact)
 
+<a rel="me" href="https://mastodon.xyz/@mounderfod">Follow me on Mastodon!</a>
+
